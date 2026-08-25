@@ -17,3 +17,10 @@ class Job:
         print(f"Job Title: {self.title}, Salary: {self.salary}, Location: {self.location}")
 
 Job("Software Engineer", 100000, "New York").display_job_info()        
+
+job1=Job("Data Scientist", 120000, "San Francisco")
+print(job1.salary)
+# help(int)
+job_salary=10
+job_salary.__add__(59)
+print("-------------------------------------")
