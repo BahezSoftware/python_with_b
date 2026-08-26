@@ -37,3 +37,18 @@ name.split(sep="B",maxsplit=2
 )
 print(name)
 print(name*10)
+print("-------------------------------------")
+k="better than before"
+print(f"hello bahez all of it will be {k}")
+print("hello mr enginneri all of it will be {} than before ".format(k))
+print("hello all of it will be %s than before " %k)
+list=[1,2,3,4,5]
+list4=','.join(str(i) for i in list)
+print(type(list4))
+print(list4)
+if(True):
+    print('all of it will be better than before ')
+elif(False):
+    print('all of it will be worse than before ')
+else:
+    print('all of it will be the same than before ')
