@@ -1,6 +1,4 @@
 import pandas as pd
-df = pd.read_csv(r'C:\Users\bahez\OneDrive\Desktop\pyWithBara\organizations-100.csv',header=None,names=['orga','late'],usecols=[0,4],na_values=['?'],nrows=25,skiprows=25)
-df.isna().sum()
-df.dropna(inplace=True)
+df=pd.read_json(r'C:\Users\bahez\OneDrive\Desktop\pyWithBara\users-10.json')
 print(df)
-help(pd.read_csv)
+help(pd.read_json)
