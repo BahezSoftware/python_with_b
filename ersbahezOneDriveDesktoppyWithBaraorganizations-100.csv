@@ -1,0 +1,59 @@
+[33mcommit e2c7c020aa1e0996c1f52bbe2a1073fbd455534c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: bahez masoud <bahezmasoud@gmail.com>
+Date:   Sat Aug 29 01:38:37 2026 +0300
+
+    Update data loading method to read JSON instead of CSV
+
+[33mcommit 1c834e472fbfdb4f592e40db714b32b52acc25f7[m
+Author: bahez masoud <bahezmasoud@gmail.com>
+Date:   Sat Aug 29 01:19:20 2026 +0300
+
+    time to pandas with csv
+
+[33mcommit 4838b286d3eba48f648b68da9704e4ac54a12c73[m
+Author: bahez masoud <bahezmasoud@gmail.com>
+Date:   Fri Aug 28 02:23:46 2026 +0300
+
+    numpy
+
+[33mcommit 5c7e545e52f22cc8ebf4cf9c4774acaf6e6d7154[m
+Author: bahez masoud <bahezmasoud@gmail.com>
+Date:   Wed Aug 26 16:12:37 2026 +0300
+
+    list just
+
+[33mcommit 84e87d58b0953eeaabe1ac4edad1f769a13d0441[m
+Author: bahez masoud <bahezmasoud@gmail.com>
+Date:   Wed Aug 26 15:52:08 2026 +0300
+
+    review our last basics on python
+
+[33mcommit c49166353c0405ba19f27fcf1ff40c1357061c12[m
+Author: bahez masoud <bahezmasoud@gmail.com>
+Date:   Tue Aug 25 15:24:27 2026 +0300
+
+    Refactor name manipulation and enhance string operations
+
+[33mcommit 9717de512259b4359a3a669fc8c13f351b0f699a[m
+Author: bahez masoud <bahezmasoud@gmail.com>
+Date:   Tue Aug 25 15:10:43 2026 +0300
+
+    Add string manipulation examples and formatting functions
+
+[33mcommit 51bc71d2a94931e962143215b73e7cef0cc16fd3[m
+Author: bahez masoud <bahezmasoud@gmail.com>
+Date:   Tue Aug 25 14:51:04 2026 +0300
+
+    Add job class usage examples and help documentation
+
+[33mcommit fb1388f6a02658e9cf962bb0330cbb19471356cd[m
+Author: bahez masoud <bahezmasoud@gmail.com>
+Date:   Tue Aug 25 14:22:13 2026 +0300
+
+    Add initial implementation of job class and related functions
+
+[33mcommit b72cd1ce3a46ef0365f9e54002f57f8ce662101b[m
+Author: bahez masoud <bahezmasoud@gmail.com>
+Date:   Tue Aug 25 12:38:57 2026 +0300
+
+    first step with null

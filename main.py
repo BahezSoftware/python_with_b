@@ -1,4 +1,17 @@
-import pandas as pd
-df=pd.read_json(r'C:\Users\bahez\OneDrive\Desktop\pyWithBara\users-10.json')
-print(df)
-help(pd.read_json)
+file = open("input.txt", "r")
+
+text = file.read()
+
+file.close()
+
+text = text.replace("\t", "\\t")
+text = text.replace("\n", "\\n")
+text = text.replace(" ", "_")
+
+output = open("output.txt", "w")
+
+output.write(text)
+
+output.close()
+
+print("File processed successfully.")
